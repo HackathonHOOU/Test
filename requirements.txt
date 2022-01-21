@@ -7,7 +7,7 @@
 pandas
 numpy
 matplotlib
-tensorflow==2.6.0
+tensorflow==2.4.3
 keras==2.4.3
 scikit-learn
 openpyxl
