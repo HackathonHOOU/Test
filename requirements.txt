@@ -4,10 +4,10 @@
 #
 #    pip-compile
 #
-pandas==1.3.5
-numpy==1.21.2
-matplotlib==3.5.1
-tensorflow==2.6.0
+pandas
+numpy
+matplotlib
+tensorflow
 keras==2.4.3
-scikit-learn==1.0.2
-openpyxl==3.0.9
+scikit-learn
+openpyxl
